@@ -57,11 +57,12 @@ A plataforma conecta **ONGs** e **pessoas físicas** que necessitam de equipamen
 ---
 
 ## 👥 Integrantes do Grupo  
-- Nome 1  
-- Nome 2  
-- Nome 3  
-- Nome 4  
-
+- Ana Beatriz
+- Brunno Victor
+- Emmanuelly Creio
+- Guilherme Henrique
+- Luiz Fernando
+ 
 ---
 
 ## 📌 Diagrama do Projeto  
