@@ -65,11 +65,4 @@ A plataforma conecta **ONGs** e **pessoas físicas** que necessitam de equipamen
  
 ---
 
-## 📌 Diagrama do Projeto  
-Aqui você pode inserir o diagrama de classes ou fluxograma do sistema:  
-
-![Diagrama do Projeto](coloque-o-link-ou-caminho-da-imagem-aqui.png)  
-
----
-
 ✨ **DoaTec: Tecnologia que conecta solidariedade, sustentabilidade e inclusão digital.**  
