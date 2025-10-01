@@ -1,0 +1,63 @@
+.doatec {
+    color: rgb(32, 128, 192);
+    font-style: oblique;
+}
+
+.card-login {
+    width: 100%;
+    background-color: rgb(228, 228, 228);
+    border-radius: 20px;
+    
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    gap: 20px;
+}
+
+.imagem-logo {
+    width: 50%;
+    height: 550px;
+}
+
+.w-100 {
+    width: 100% !important;
+}
+
+.container {
+    width: 100% !important;
+    height: 600px;
+    /*
+    display: flex;
+    flex-flow: column;
+    */
+}
+
+.cntr-image-card {
+    width: 100%;
+    display: flex;
+    flex-flow: row;
+
+}
+
+.form-floating {
+    width: 100%;
+}
+
+.form-login{
+    width: 66.67%;
+}
+
+.login-button {
+    width: 100% !important;
+}
+
+.btn {
+    width: 100% !important;
+}
+
+.btn-secondary {
+    width: 60%;
+}
+

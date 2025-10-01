@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DoaTec cadastro PO</title>
+     <link rel="icon" type="image/x-icon" href="logoDoaTec.webp">
+    <link rel="stylesheet" type="text/css" href="style-cadastropo.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <script src="script.js"></script>
+</head>
+
+<body>
+
+
+    <div class="container">
+        <div class="form-final">
+            <form>
+                <legend><strong>Cadastro Pessoa ou ONG</strong></legend>
+                <label for="nomepong">Nome completo ou fantasia</label>
+                <input type="text" name="nomepong" id="nomepong" class="form-control" required minlength="1"/>
+
+                <label for="telefonepong">Telefone</label>
+                <input type="tel" name="telefonepong" id="telefonepong" class="form-control"  placeholder="(99) 99999-9999"
+                 /> 
+
+                <label for="cpfcnpjpong">CPF ou CNPJ</label>
+                <input type="tel" name="cpfcnpjpong" id="cpfcnpjpong" class="form-control" placeholder="012.345.678-99"
+                 />
+                 
+                <label for="emailpong">Email</label>
+                <input type="text" name="emailpong" id="emailpong" class="form-control" required minlength="4"
+                 />
+
+                 <label for="senhapong">Senha</label>
+                <input type="text" name="senhapong" id="senhapong" class="form-control" required minlength="1" />
+
+                <div class="form-floating mb-3 login-button">
+                    <button type="button" class="btn btn-primary" onclick="cadastrarPong()">Cadastrar</button>
+                </div>
+            </form>
+        </div>
+
+
+    </div>
+
+</body>
+
+</html>

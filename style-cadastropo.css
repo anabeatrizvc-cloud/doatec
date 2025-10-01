@@ -1,0 +1,25 @@
+.form-final {
+    background-color: rgb(228, 228, 228);
+    border-radius: 20px;
+    width: 50%;
+    height: 83.33vh;
+    padding: 5%;
+}
+
+.container{
+    width: 100% !important;
+    height: 100vh !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+.btn-primary{
+    width: 100%;   
+}
+    
